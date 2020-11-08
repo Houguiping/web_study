@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+table {
+    width: 300px;
+    height: 300px;
+    border-collapse: separate; /*表格样式属性之边框合并,默认值seperate 分离边框模式；collaspe 边框合并模式*/
+    margin:0 auto;    /*居中显示*/
+    border-radius:3px;
+    border-spacing: 10px; /*设置相邻单元格边框之间的距离(类似于cellspacing)*/
+
+}
+
+td2{
+    border: 1px solid green; /*设置单元格边框 大小、颜色*/
+    background-color: green; /*设置单元格背景颜色*/
+    border-radius: 20%;
+}
+
+td {
+    border: 1px solid darkorange; /*设置单元格边框 大小、颜色*/
+    background-color: darkorange; /*设置单元格背景颜色*/
+    border-radius: 20%;
+}
+
+button{
+    width:300px ;
+    height:50px ;
+    border-color: darkorange ;
+    background-color: ghostwhite ;
+    color: darkorange;
+    outline:none;  /*按钮按下去时边框无颜色*/
+}
+
+ button:hover{     /*鼠标悬停时按钮的颜色*/
+     background: darkorange;
+     color: white;
+
+ }
+
+
+
+
