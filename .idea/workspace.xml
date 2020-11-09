@@ -21,13 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="dd5eea84-0589-49a5-af2b-452df17844cb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/training01/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training01/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training01/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training01/.idea/sudoku.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training01/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training01/css/sudoku.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training01/html/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training01/js/sudoku.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training01/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/training01/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/training01/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/training01/weidaima" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604892808759</updated>
-      <workItem from="1604892822631" duration="2139000" />
+      <workItem from="1604892822631" duration="2890000" />
     </task>
     <servers />
   </component>
